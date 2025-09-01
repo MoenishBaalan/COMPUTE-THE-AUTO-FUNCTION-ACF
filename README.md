@@ -1,6 +1,6 @@
 # COMPUTE-THE-AUTO-FUNCTION-ACF
 
-Date: 01.08.2025
+Date: 01.09.2025
 
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
