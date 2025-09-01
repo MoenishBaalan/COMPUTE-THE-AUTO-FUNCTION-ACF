@@ -62,8 +62,8 @@ print(acf_values)
 ```
 
 ### OUTPUT:
-<img width="1463" height="786" alt="Screenshot 2025-09-01 152328" src="https://github.com/user-attachments/assets/7057b66a-cd35-4514-b53b-d02a4f9251c1" />
 
+<img width="753" height="464" alt="image" src="https://github.com/user-attachments/assets/6af879c9-b5ae-424d-9d7f-9ba51ccc8a96" />
 
 
 ```
